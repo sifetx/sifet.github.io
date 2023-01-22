@@ -13,12 +13,8 @@ body.loading .loading-modal {
 }
 
 .title h1 {
-    color: #000;
-    text-decoration: underline;
-}
-
-.title h1:hover {
-    color: #3588DE;
+    color: #FFFFFF;
+    /*text-decoration: underline;*/
 }
 
 .dropzone {
