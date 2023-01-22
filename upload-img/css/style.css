@@ -8,14 +8,12 @@ body.loading .loading-modal {
 }
 
 .title {
-    font: bold 1em Ubuntu;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
 }
 
 .title h1 {
-    font: bold 1em Ubuntu;
     color: #FFFFFF;
     /*text-decoration: underline;*/
 }
