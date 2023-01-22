@@ -74,8 +74,8 @@
         createDragZone: function () {
             var p1, p2, input;
 
-                p1 = this.createEls('p', {}, 'Drop Image File Here');
-                p2 = this.createEls('p', {}, 'Or click here to select image');
+                p1 = this.createEls('p', {}, 'Arrasta a imagem para aqui');
+                p2 = this.createEls('p', {}, 'ou clica e seleciona uma imagem');
             input = this.createEls('input', {type: 'file', multiple: 'multiple', className: 'input', accept: 'image/*'});
 
             Array.prototype.forEach.call(this.info, function (zone) {
